@@ -31,6 +31,7 @@ We can describe this process in a straightforward way.
 
 
 There are a couple of algorithms to decide how to draw the lines, DBSCAN being the last thing I came up with.
+We had also tried other approches for detecting lanes like particle Filter based lane detection and Kalman Filter based lane detection. jupyter files related to these approches alsoo in repo. 
 
 <h5>Related article:</h5>https://medium.com/giscle/why-are-we-planing-to-use-deep-learning-and-cascade-particle-filter-for-indian-road-lane-detection-3b922212f807
 
