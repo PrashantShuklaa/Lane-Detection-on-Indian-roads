@@ -1,8 +1,8 @@
 
-Lane-Detection on Indian Roads
+# Lane-Detection on Indian Roads
 <p align='center'><img width="500" height="300" align="center" src="https://github.com/Giscle/Moto-Dream-Lane-Detection-/blob/master/img/gifv.gif"></p>
 
-<p><b>Team leader:</b> Olaf Placha,  <b>Team members:</b> Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
+<p><b>Team members:</b> Olaf Plach, Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
 
 This project is created by team MotoDream for Giscle Intern and for detecting lane on indidan Roads.
 
@@ -30,5 +30,7 @@ We can describe this process in a straightforward way.
 - Apply Clustering algorithm to draw clear line. 
 
 
-There are a couple of algorithms to decide how to draw the lines, DBSCAN being the last thing I came up with. 
+There are a couple of algorithms to decide how to draw the lines, DBSCAN being the last thing I came up with.
+
+<h5>Related article:</h5>https://medium.com/giscle/why-are-we-planing-to-use-deep-learning-and-cascade-particle-filter-for-indian-road-lane-detection-3b922212f807
 
