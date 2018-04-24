@@ -1,5 +1,5 @@
 
-# Moto-Dream-Lane-Detection
+Lane-Detection on Indian Roads
 <p align='center'><img width="500" height="300" align="center" src="https://github.com/Giscle/Moto-Dream-Lane-Detection-/blob/master/img/gifv.gif"></p>
 
 <p><b>Team leader:</b> Olaf Placha,  <b>Team members:</b> Ahmet Yaylalioglu, Prashant Singh, Prashant Shukla.</p>
